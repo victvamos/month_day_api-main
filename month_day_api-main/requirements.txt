@@ -1,0 +1,4 @@
+# Adicione aqui as dependências do seu projeto
+flask
+workalendar
+# ...outras dependências...
